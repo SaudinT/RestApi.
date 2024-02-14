@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ToDoApp",
+    "\\ToDoApp\\bin\\Debug",
+    "\\ToDoApp\\bin\\Debug\\net8.0",
+    "\\ToDoApp\\bin\\Release\\net8.0",
+    "\\ToDoApp\\bin\\Release\\net8.0\\zh-Hant",
+    "\\ToDoApp\\obj\\Debug",
+    "\\ToDoApp\\obj\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\ToDoApp\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
